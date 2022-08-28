@@ -2,6 +2,7 @@
 # KeyGenerator </br>
 This is a developer extension </br>
 Just download this repo and add it to your Chrome extensions. </br>
+Or get it for FireFox here:  https://addons.mozilla.org/de/firefox/addon/key-generator/
 
 ![grafik](https://user-images.githubusercontent.com/97134175/187020701-e1add2c1-2b9d-4972-b13c-7261a47e4b0a.png) </br>
 
